@@ -1,0 +1,15 @@
+name: MIAW
+dependencies:
+  - python=3.6
+  - nodejs
+  - numpy
+  - pandas
+  - seaborn
+  - ipympl
+  - jupyterlab
+  - scikit-learn
+  - pip:
+    - pydicom
+    - SimpleITK
+    - itk
+    - itkwidgets
