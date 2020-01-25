@@ -1,14 +1,13 @@
 name: MIAW
 dependencies:
   - python=3.6
-  - nodejs
   - numpy
   - pandas
   - seaborn
-  - ipympl
-  - jupyterlab
   - scikit-learn
   - pip:
+    - ipympl
+    - jupyterlab
     - pydicom
     - SimpleITK
     - itk
