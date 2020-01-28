@@ -26,5 +26,7 @@ Installation
 4. Activate environment and install required Jupyter Lab extensions:
   ```
     conda activate MIAW
+    conda install -c conda-forge nodejs
+    npm install -g configurable-http-proxy
     jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib jupyterlab-datawidgets itkwidgets
   ```
