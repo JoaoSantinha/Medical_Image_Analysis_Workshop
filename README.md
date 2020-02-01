@@ -6,7 +6,7 @@ Installation
   - [Miniconda (management system without packages)](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
 
 2. Clone this repository or download the .zip file to your documents folder (to clone the repository you need to have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) install): 
-  - clone repository in Windows using the following commands on your command line (replace <current_user> by your user name):
+  - clone repository in Windows using the following commands on your Anaconda Powershell Prompt (replace <current_user> by your user name):
   ```
     cd C:\Users\<current_user>\Documents\
     git clone https://github.com/JoaoSantinha/Medical_Image_Analysis_Workshop.git
