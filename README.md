@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JoaoSantinha/Medical_Image_Analysis_Workshop/HEAD)
+
 Installation
 ------------
 
